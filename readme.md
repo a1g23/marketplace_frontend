@@ -28,6 +28,8 @@
 
 
 ## React Architecture
-
+![React Architecture](./frontendERD.png)
 
 ## Web and Mobile Mockups
+![Desktop Mockup](https://i.imgur.com/HjFupZe.png)
+![Mobile Mockup](https://i.imgur.com/OCQoMgc.png)
