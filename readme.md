@@ -1,9 +1,9 @@
 # Barter Circus Frontend
 
--**Alex Greenberg**
--**Rohan Sinha**
--**Nicholas Murray**
--**Daniel Ji**
+- **Alex Greenberg**
+- **Rohan Sinha**
+- **Nicholas Murray**
+- **Daniel Ji**
 
 **The Barter Circus App will help vendors display items for sale. Think online yard sale!**
 
