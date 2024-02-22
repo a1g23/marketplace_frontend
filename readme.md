@@ -25,3 +25,9 @@
 | Update Item | ":id" |   N/a  | updateAction | Updates the existing Item from the form  |
 | Remove Item | "delete/:id" | N/a | deleteAction | Deletes the Item selected |
 | Show Item | ":id" | ShowOne | N/a | Renders a detailed page of the Item |
+
+
+## React Architecture
+
+
+## Web and Mobile Mockups
